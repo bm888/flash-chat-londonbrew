@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365680349333",
+    "firebase_url": "https://flash-chat-4d98f.firebaseio.com",
+    "project_id": "flash-chat-4d98f",
+    "storage_bucket": "flash-chat-4d98f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365680349333:android:9c8559038ad37cdf6e0b9c",
+        "android_client_info": {
+          "package_name": "com.borismarkovich.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365680349333-repm2n247c4p6a7dcmt7o0g48ohblott.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU7ekiCI7IFO79mblNRMW4JF7k012gZbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365680349333-repm2n247c4p6a7dcmt7o0g48ohblott.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
